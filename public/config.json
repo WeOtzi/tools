@@ -1,0 +1,58 @@
+{
+  "logoImg": "/src/assets/b9f5696472bd25bd16dc310ed8ae2d575f62d935.png",
+  "navTitle": "Beta cerrada - Herramientas",
+  "menuLinks": [
+    { "text": "We\u00d6tzi", "url": "#" },
+    { "text": "Buscar Artistas", "url": "#" },
+    { "text": "Blog", "url": "#" },
+    { "text": "Proyecto Bauhaus", "url": "#" },
+    { "text": "FAQ", "url": "#" },
+    { "text": "Soporte", "url": "#" }
+  ],
+  "heroTitle": "EL ARTE DEL TATUAJE,",
+  "heroSubtitle": "REIMAGINADO",
+  "heroText": "Conectamos a los mejores artistas con amantes del tatuaje a trav\u00e9s de una plataforma innovadora. Gestiona cotizaciones, citas y tu portafolio en un solo lugar.",
+  "pruebameText": "PULS\u00c1ME",
+  "pruebameUrl": "#",
+  "cards": [
+    {
+      "id": 1,
+      "title": "Cotizar un tatuaje",
+      "description": "Describe tu idea y recibe presupuestos de artistas verificados en minutos.",
+      "cta": "Comenzar",
+      "videoId": "dQw4w9WgXcQ",
+      "bg": "https://images.unsplash.com/photo-1562259954-bf6c7f31bf60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwdGF0dG9vJTIwcGFybG9yJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzcxNjU1OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    },
+    {
+      "id": 2,
+      "title": "Chat de voz",
+      "description": "Habla directamente con tu artista para afinar cada detalle de tu dise\u00f1o.",
+      "cta": "Conectar",
+      "videoId": "dQw4w9WgXcQ",
+      "bg": "https://images.unsplash.com/photo-1688039763740-9036cb5d566e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB2b2ljZSUyMHJlY29yZGluZyUyMHN0dWRpb3xlbnwxfHx8fDE3NzE2NTU5MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    },
+    {
+      "id": 3,
+      "title": "Portal de artista",
+      "description": "Gestiona tu portafolio, agenda y clientes desde un solo lugar.",
+      "cta": "Entrar",
+      "videoId": "dQw4w9WgXcQ",
+      "bg": "https://images.unsplash.com/photo-1635182473361-1f72e7b4be83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmFsJTIwZGVzaWduJTIwc3R1ZGlvfGVufDF8fHx8MTc3MTY1NTkwMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    },
+    {
+      "id": 4,
+      "title": "Portal de cliente",
+      "description": "Revisa tus citas, historial y artistas favoritos en tu panel personal.",
+      "cta": "Mi cuenta",
+      "videoId": "dQw4w9WgXcQ",
+      "bg": "https://images.unsplash.com/photo-1634803828978-24dabef75a5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHxjbGVhbiUyMG1pbmltYWxpc3QlMjB3b3Jrc3BhY2UlMjBvZmZpY2V8ZW58MXx8fHwxNzcxNjU1OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    }
+  ],
+  "footerText": "\u00a9 2026 We \u00d6tzi.",
+  "footerLinks": [
+    { "text": "Privacidad", "url": "#" },
+    { "text": "T\u00e9rminos", "url": "#" }
+  ],
+  "menuText": "Men\u00fa",
+  "menuUrl": "#"
+}
